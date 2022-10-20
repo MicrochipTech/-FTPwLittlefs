@@ -1,0 +1,10 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# pic32mzw1_wfi32iot_freertos configuration
+CND_ARTIFACT_DIR_pic32mzw1_wfi32iot_freertos=dist/pic32mzw1_wfi32iot_freertos/production
+CND_ARTIFACT_NAME_pic32mzw1_wfi32iot_freertos=FTPwLittleFS_pic32mzw1_wfi32iot_freertos.X.production.hex
+CND_ARTIFACT_PATH_pic32mzw1_wfi32iot_freertos=dist/pic32mzw1_wfi32iot_freertos/production/FTPwLittleFS_pic32mzw1_wfi32iot_freertos.X.production.hex
