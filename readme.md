@@ -1,4 +1,4 @@
-![https://www.microchip.com/](imagess/microchip.png)
+![https://www.microchip.com/](images/microchip.png)
 # FTP Server using littlefs File System for WFI32-IoT board
 
 ## Introduction
